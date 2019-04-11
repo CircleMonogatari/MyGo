@@ -1,0 +1,6 @@
+package mych
+
+import (
+    "fmt"
+)
+
