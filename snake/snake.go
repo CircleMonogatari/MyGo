@@ -1,5 +1,5 @@
 package snake
 
-type point struct {
-	
+type Snake struct {
+	Point
 }
